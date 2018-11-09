@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Hazel/src/Hazel/Application.h
+Core.h
+../Hazel/src/Hazel/Core.h
+
+../Hazel/src/Hazel/Core.h
+
+../Hazel/src/Hazel/Entrypoint.h
+Application.h
+../Hazel/src/Hazel/Application.h
+stdio.h
+-
+
+/Users/rpmmcdougall/dev/Hazel/Sandbox/src/SandboxApp.cpp
+iostream
+-
+Hazel/Application.h
+/Users/rpmmcdougall/dev/Hazel/Sandbox/src/Hazel/Application.h
+Hazel/Entrypoint.h
+/Users/rpmmcdougall/dev/Hazel/Sandbox/src/Hazel/Entrypoint.h
+
