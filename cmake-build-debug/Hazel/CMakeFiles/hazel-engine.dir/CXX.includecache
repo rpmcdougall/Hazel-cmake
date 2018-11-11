@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Application.cpp
-Application.h
-/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Application.h
+/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Core.h
 
-/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Application.h
+/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Log.cpp
+Log.h
+/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Log.h
+spdlog/sinks/stdout_color_sinks.h
+/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/spdlog/sinks/stdout_color_sinks.h
+
+/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Log.h
 Core.h
 /Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Core.h
-
-/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Core.h
+spdlog/spdlog.h
+/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/spdlog/spdlog.h
+memory
+-
 

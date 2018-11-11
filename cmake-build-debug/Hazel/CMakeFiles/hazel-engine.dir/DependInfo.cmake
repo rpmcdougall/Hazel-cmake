@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Application.cpp" "/Users/rpmmcdougall/dev/Hazel/cmake-build-debug/Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Application.cpp.o"
+  "/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Log.cpp" "/Users/rpmmcdougall/dev/Hazel/cmake-build-debug/Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Log.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

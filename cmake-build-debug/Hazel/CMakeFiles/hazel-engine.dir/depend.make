@@ -5,3 +5,7 @@ Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Application.cpp.o: ../Hazel/src/Haze
 Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Application.cpp.o: ../Hazel/src/Hazel/Application.h
 Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Application.cpp.o: ../Hazel/src/Hazel/Core.h
 
+Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Log.cpp.o: ../Hazel/src/Hazel/Core.h
+Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Log.cpp.o: ../Hazel/src/Hazel/Log.cpp
+Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Log.cpp.o: ../Hazel/src/Hazel/Log.h
+

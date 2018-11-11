@@ -8,5 +8,6 @@
 #include "Hazel/Application.h"
 #include "Hazel/Entrypoint.h"
 #include "Hazel/Core.h"
+#include "Hazel/Log.h"
 
 #endif //HAZEL_HAZEL_H

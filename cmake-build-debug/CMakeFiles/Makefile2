@@ -89,7 +89,7 @@ Hazel/preinstall:
 Hazel/CMakeFiles/hazel-engine.dir/all:
 	$(MAKE) -f Hazel/CMakeFiles/hazel-engine.dir/build.make Hazel/CMakeFiles/hazel-engine.dir/depend
 	$(MAKE) -f Hazel/CMakeFiles/hazel-engine.dir/build.make Hazel/CMakeFiles/hazel-engine.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target hazel-engine"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target hazel-engine"
 .PHONY : Hazel/CMakeFiles/hazel-engine.dir/all
 
 # Include target in all.
@@ -99,7 +99,7 @@ all: Hazel/CMakeFiles/hazel-engine.dir/all
 
 # Build rule for subdir invocation for target.
 Hazel/CMakeFiles/hazel-engine.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 Hazel/CMakeFiles/hazel-engine.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles 0
 .PHONY : Hazel/CMakeFiles/hazel-engine.dir/rule
@@ -144,7 +144,7 @@ Sandbox/preinstall:
 Sandbox/CMakeFiles/hazel-sandbox.dir/all: Hazel/CMakeFiles/hazel-engine.dir/all
 	$(MAKE) -f Sandbox/CMakeFiles/hazel-sandbox.dir/build.make Sandbox/CMakeFiles/hazel-sandbox.dir/depend
 	$(MAKE) -f Sandbox/CMakeFiles/hazel-sandbox.dir/build.make Sandbox/CMakeFiles/hazel-sandbox.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target hazel-sandbox"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles --progress-num=4,5 "Built target hazel-sandbox"
 .PHONY : Sandbox/CMakeFiles/hazel-sandbox.dir/all
 
 # Include target in all.
@@ -154,7 +154,7 @@ all: Sandbox/CMakeFiles/hazel-sandbox.dir/all
 
 # Build rule for subdir invocation for target.
 Sandbox/CMakeFiles/hazel-sandbox.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 Sandbox/CMakeFiles/hazel-sandbox.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rpmmcdougall/dev/Hazel/cmake-build-debug/CMakeFiles 0
 .PHONY : Sandbox/CMakeFiles/hazel-sandbox.dir/rule

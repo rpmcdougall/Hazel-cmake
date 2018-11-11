@@ -3,6 +3,7 @@ project(hazel-engine)
 # Add sources (only .cpp)
 set (SANDBOX_SOURCES
         src/Hazel/Application.cpp
+        src/Hazel/Log.cpp
         )
 
 # Define shared library

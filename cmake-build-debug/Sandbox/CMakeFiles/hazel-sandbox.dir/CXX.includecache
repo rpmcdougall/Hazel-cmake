@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+../Hazel/src/Hazel.h
+Hazel/Application.h
+../Hazel/src/Hazel/Application.h
+Hazel/Entrypoint.h
+../Hazel/src/Hazel/Entrypoint.h
+Hazel/Core.h
+../Hazel/src/Hazel/Core.h
+Hazel/Log.h
+../Hazel/src/Hazel/Log.h
+
 ../Hazel/src/Hazel/Application.h
 Core.h
 ../Hazel/src/Hazel/Core.h
@@ -15,14 +25,22 @@ Core.h
 ../Hazel/src/Hazel/Entrypoint.h
 Application.h
 ../Hazel/src/Hazel/Application.h
+Log.h
+../Hazel/src/Hazel/Log.h
 stdio.h
+-
+
+../Hazel/src/Hazel/Log.h
+Core.h
+../Hazel/src/Hazel/Core.h
+spdlog/spdlog.h
+../Hazel/src/Hazel/spdlog/spdlog.h
+memory
 -
 
 /Users/rpmmcdougall/dev/Hazel/Sandbox/src/SandboxApp.cpp
 iostream
 -
-Hazel/Application.h
-/Users/rpmmcdougall/dev/Hazel/Sandbox/src/Hazel/Application.h
-Hazel/Entrypoint.h
-/Users/rpmmcdougall/dev/Hazel/Sandbox/src/Hazel/Entrypoint.h
+Hazel.h
+/Users/rpmmcdougall/dev/Hazel/Sandbox/src/Hazel.h
 

@@ -74,6 +74,12 @@
 		<Unit filename="/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Application.h">
 			<Option target="hazel-engine"/>
 		</Unit>
+		<Unit filename="/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Log.cpp">
+			<Option target="hazel-engine"/>
+		</Unit>
+		<Unit filename="/Users/rpmmcdougall/dev/Hazel/Hazel/src/Hazel/Log.h">
+			<Option target="hazel-engine"/>
+		</Unit>
 		<Unit filename="/Users/rpmmcdougall/dev/Hazel/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

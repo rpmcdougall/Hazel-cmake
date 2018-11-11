@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -g -dynamiclib -Wl,-headerpad_max_install_names  -o libhazel-engine.dylib -install_name @rpath/libhazel-engine.dylib CMakeFiles/hazel-engine.dir/src/Hazel/Application.cpp.o 
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -dynamiclib -Wl,-headerpad_max_install_names  -o libhazel-engine.dylib -install_name @rpath/libhazel-engine.dylib CMakeFiles/hazel-engine.dir/src/Hazel/Application.cpp.o CMakeFiles/hazel-engine.dir/src/Hazel/Log.cpp.o 

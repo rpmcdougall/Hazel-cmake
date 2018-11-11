@@ -152,6 +152,33 @@ src/Hazel/Application.cpp.s:
 	cd /Users/rpmmcdougall/dev/Hazel/cmake-build-debug && $(MAKE) -f Hazel/CMakeFiles/hazel-engine.dir/build.make Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Application.cpp.s
 .PHONY : src/Hazel/Application.cpp.s
 
+src/Hazel/Log.o: src/Hazel/Log.cpp.o
+
+.PHONY : src/Hazel/Log.o
+
+# target to build an object file
+src/Hazel/Log.cpp.o:
+	cd /Users/rpmmcdougall/dev/Hazel/cmake-build-debug && $(MAKE) -f Hazel/CMakeFiles/hazel-engine.dir/build.make Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Log.cpp.o
+.PHONY : src/Hazel/Log.cpp.o
+
+src/Hazel/Log.i: src/Hazel/Log.cpp.i
+
+.PHONY : src/Hazel/Log.i
+
+# target to preprocess a source file
+src/Hazel/Log.cpp.i:
+	cd /Users/rpmmcdougall/dev/Hazel/cmake-build-debug && $(MAKE) -f Hazel/CMakeFiles/hazel-engine.dir/build.make Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Log.cpp.i
+.PHONY : src/Hazel/Log.cpp.i
+
+src/Hazel/Log.s: src/Hazel/Log.cpp.s
+
+.PHONY : src/Hazel/Log.s
+
+# target to generate assembly for a file
+src/Hazel/Log.cpp.s:
+	cd /Users/rpmmcdougall/dev/Hazel/cmake-build-debug && $(MAKE) -f Hazel/CMakeFiles/hazel-engine.dir/build.make Hazel/CMakeFiles/hazel-engine.dir/src/Hazel/Log.cpp.s
+.PHONY : src/Hazel/Log.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -164,6 +191,9 @@ help:
 	@echo "... src/Hazel/Application.o"
 	@echo "... src/Hazel/Application.i"
 	@echo "... src/Hazel/Application.s"
+	@echo "... src/Hazel/Log.o"
+	@echo "... src/Hazel/Log.i"
+	@echo "... src/Hazel/Log.s"
 .PHONY : help
 
 
